@@ -10,3 +10,9 @@
 - [While loops](scripts/7.sh)
 - [More with loops](scripts/8.sh)
 - [For loops](scripts/9.sh)
+
+## Slides
+Slides are available [here]("Bourne Again.pdf").
+
+If you want inspiration, have a look at this repository: [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+We hope you enjoy your journey with Bash!
