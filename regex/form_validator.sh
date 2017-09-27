@@ -9,7 +9,7 @@ done
 
 while
 	read -p "Email ID: " email
-	[[ ! "$email" =~ ^[a-z0-9_]+@[a-z0-9-]+\.[a-z]+$ ]]
+	[[ ! "$email" =~ ^[a-z0-9_]+@[a-z0-9\-]+\.[a-z]+$ ]]
 do
 	echo "$email is not a valid email address"
 done
