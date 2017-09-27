@@ -25,4 +25,6 @@ Slides are available [here](bourne_again.pdf).
 
 If you want inspiration, have a look at this repository: [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 
+Useful articles about whitespace protection can be found [here](https://unix.stackexchange.com/a/131767) and [here](https://unix.stackexchange.com/a/117858).
+
 We hope you enjoy your journey with Bash!
