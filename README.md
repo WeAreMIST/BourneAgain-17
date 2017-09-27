@@ -12,7 +12,9 @@
 - [For loops](scripts/9.sh)  
 
 ## Regex
-- [Form validator](regex/form_validation.sh)
+- [Form validator](regex/form_validator.sh)
+- [Email extractor](regex/email_extractor.sh)
+- [URL extractor](regex/url_extractor.sh)
 
 ## Demo Scripts
 - [A fractal script](demo_scripts/fractal.sh)
