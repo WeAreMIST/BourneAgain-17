@@ -16,6 +16,9 @@
 - [Email extractor](regex/email_extractor.sh)
 - [URL extractor](regex/url_extractor.sh)
 
+## Expect
+- [Demo](expect/demo.exp)
+
 ## Demo Scripts
 - [A fractal script](demo_scripts/fractal.sh)
 - [An emulation of the popular Snake game](demo_scripts/snake.sh)

@@ -1,0 +1,14 @@
+#!/usr/bin/expect
+
+# for testing
+set username "wrkshp"
+# for testing
+set hostname "67.207.85.250"
+set password "bash"
+spawn ssh $username@$hostname
+expect "*?password:*"
+send "$password\n"
+expect "$ "
+send "cat /var/log/apache2/access.log\n"
+expect "$ "
+send "exit\n"
